@@ -1,4 +1,4 @@
-# **OCTO-Ops + `Terraform`**
+# **GitOps +`Terraform`**
 
 - The concept was created by WeaveWorks. Here is the [founding post file](https://www.weave.works/blog/gitops-operations-by-pull-request) and here is [an update](https://www.weave.works/blog/what-is-gitops-really).
 
@@ -12,5 +12,7 @@
 
   Manage the **content and infrastructure** of a website in a git monorepo. **Deploy automatically** with each push.
 
-![img](/Users/jeffreyattoh/Library/CloudStorage/OneDrive-ZDAPT/OCTO/tf-iac/aws-tf-library/infrastructure/architecture.svg)
+![Dragon Ball Fusions We NEED To See | CBR](https://static3.cbrimages.com/wordpress/wp-content/uploads/2020/10/Dragon-Ball-FighterZ-Goku-Vegeta-Fusion-Dance.jpg)
+
+
 

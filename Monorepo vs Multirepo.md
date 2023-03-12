@@ -1,4 +1,6 @@
-![](/Users/jeffreyattoh/Library/CloudStorage/OneDrive-ZDAPT/OCTO/tf-iac/aws-tf-library/images/Git-Mono-vs-Multi-Repo_Hero.png)
+
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gitkraken.com%2Fblog%2Fgit-multi-repo-vs-git-mono-repo&psig=AOvVaw0-HQvjOJBYI8zyTLy6zba2&ust=1678744716625000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiNmMmx1_0CFQAAAAAdAAAAABAD
 
 # MONOREPO vs MULTIREPO: Which method for modularization?
 
