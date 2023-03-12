@@ -1,4 +1,6 @@
-![Gojek Tech on Twitter: "If you're deciding between a mono repo and multi  repo codebase structure, we were there too. And we were utterly confused.  🤨 So, we took a data-driven approach](/Users/jeffreyattoh/Library/CloudStorage/OneDrive-ZDAPT/OCTO/tf-iac/tf-docs/E5luCYYVoAElelK.jpg)
+
+
+![Gojek Tech on Twitter: "If you're deciding between a mono repo and multi  repo codebase structure, we were there too. And we were utterly confused.  🤨 So, we took a data-driven approach](https://pbs.twimg.com/media/E5luCYYVoAElelK.jpg)
 
 # MONOREPO vs MULTIREPO: Which method for modularization?
 
