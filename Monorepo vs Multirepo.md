@@ -1,6 +1,4 @@
-
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gitkraken.com%2Fblog%2Fgit-multi-repo-vs-git-mono-repo&psig=AOvVaw0-HQvjOJBYI8zyTLy6zba2&ust=1678744716625000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiNmMmx1_0CFQAAAAAdAAAAABAD
+![Gojek Tech on Twitter: "If you're deciding between a mono repo and multi  repo codebase structure, we were there too. And we were utterly confused.  🤨 So, we took a data-driven approach](/Users/jeffreyattoh/Library/CloudStorage/OneDrive-ZDAPT/OCTO/tf-iac/tf-docs/E5luCYYVoAElelK.jpg)
 
 # MONOREPO vs MULTIREPO: Which method for modularization?
 
